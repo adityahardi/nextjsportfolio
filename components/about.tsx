@@ -19,16 +19,16 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        interest in technology, especially{" "}
+        Interest in technology, especially{" "}
         <span className="font-medium">Computers</span>, began when I used to
         enjoy playing games at cybercafes. It was during my internship at a company that I discovered{" "}
         <span className="font-medium">my passion for programming</span>.{" "}
         <span className="italic"> I had the opportunity to work there as an intern,</span> and now I am
         employed as a web developer. I <span className="underline">am</span> constantly
-        learning and improving my skills in various programming languages, frameworks, and technologies.
+        learning and improving my skills in various programming languages, frameworks, and technologies, which is.
         {" "}
         <span className="font-medium">
-          Laravel, PHP, TALL-Stack
+          Laravel, PHP, etc
         </span>
         . I enjoy the challenges that come with developing 
         web applications and finding creative solutions to problems{" "}
